@@ -7,7 +7,7 @@ The original sentences are from `Corpus of Historical Japanese' (CHJ).
 # Introduction
 
 The Japanese UD treebank contains the sentences from CHJ Meiji Era / Taishō Era
-Series I: Magazines - Meiroku Zasshi samples 
+Series I: Magazines - Meiroku Zasshi samples
 http://pj.ninjal.ac.jp/corpus_center/chj/meiji_taisho-en.html
 with BCCWJ-DepPara[2] compatible annotation [5].
 
@@ -29,8 +29,8 @@ Universal Dependency for Japanese Modern.
 In JADH-2017.
 
 Asahara, M., Kanayama, H., Tanaka, T., Miyao, Y., Uematsu, S., Mori, S.,
-Matsumoto, Y., Omura, M., & Murawaki, Y. (2018). 
-Universal Dependencies Version 2 for Japanese. 
+Matsumoto, Y., Omura, M., & Murawaki, Y. (2018).
+Universal Dependencies Version 2 for Japanese.
 In LREC-2018.
 
 # Acknowledgments
@@ -67,21 +67,21 @@ Matsumoto, Y., Omura, M., & Murawaki, Y. (2018). Universal Dependencies Version
 [5] Omura, M., Takahashi, Y. & Asahara, M. (2017). Universal Dependency for
 Japanese Modern, In JADH-2017.
 
-=== Machine-readable metadata =================================================
-Data available since: UD v2.2
-License: CC BY-NC-ND 3.0
-Includes text: yes
-Genre: magazine in modern era
-Lemmas: yes
-UPOS: conversion from XPOS
-XPOS: manually annotated
-Features: 
-Relations: converted from BCCWJ-DepPara schema
-Contributors: Omura, Mai; Asahara, Masayuki; Takahashi, Yuta
-Contact: masayu-a@ninjal.ac.jp
-===============================================================================
-
 Changelog
 
 2018-03-28   v1.0
   * Initial release in Universal Dependencies.
+
+=== Machine-readable metadata =================================================
+Data available since: UD v2.2
+License: CC BY-NC-ND 3.0
+Includes text: yes
+Genre: nonfiction
+Lemmas: converted from manual
+UPOS: converted from manual
+XPOS: manual native
+Features: not available
+Relations: converted from manual
+Contributors: Omura, Mai; Asahara, Masayuki; Takahashi, Yuta
+Contact: masayu-a@ninjal.ac.jp
+===============================================================================
