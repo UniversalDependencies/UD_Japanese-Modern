@@ -83,5 +83,6 @@ XPOS: manual native
 Features: not available
 Relations: converted from manual
 Contributors: Omura, Mai; Asahara, Masayuki; Takahashi, Yuta
+Contributing: elsewhere
 Contact: masayu-a@ninjal.ac.jp
 ===============================================================================
