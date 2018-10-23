@@ -73,7 +73,7 @@ Changelog
   * Initial release in Universal Dependencies.
 
 === Machine-readable metadata =================================================
-Data available since: UD v2.3
+Data available since: UD v2.2
 License: CC BY-NC-ND 3.0
 Includes text: yes
 Genre: nonfiction
