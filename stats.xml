@@ -6,6 +6,9 @@
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
     <total><sentences>822</sentences><tokens>14494</tokens><words>14494</words><fused>0</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>822</sentences><tokens>14494</tokens><words>14494</words><fused>0</fused></test>
   </size>
   <lemmas unique="2542" /><!-- を, の, に, て, す, なり, ず, 其, は, と, 之, べし, 、, ば, あり -->
   <forms unique="2871" /><!-- を, の, に, て, 其, は, と, し, ず, 之, 、, ば, なり, 者, ん -->
@@ -24,9 +27,9 @@
     <tag name="PART">170</tag><!-- 上, 等, 人, 中, 國, 法, 家, 氏, 省, 難し -->
     <tag name="PRON">739</tag><!-- 其, 之, 此, 是, 何, 我, 余, 彼, 僕, 小子 -->
     <tag name="PROPN">134</tag><!-- 日本, 歐洲, 佛國, 支那, 魯西亞, 希臘, 明治, 津田, 羅馬, 英國 -->
-    <tag name="PUNCT">234</tag><!-- 、, ○, （, ）, 「, 」, ． -->
+    <tag name="PUNCT">167</tag><!-- 、, ． -->
     <tag name="SCONJ">483</tag><!-- て -->
-    <tag name="SYM">1</tag><!-- あ -->
+    <tag name="SYM">68</tag><!-- ○, （, ）, 「, 」, あ -->
     <tag name="VERB">2275</tag><!-- す, あり, 以つ, 然り, 至る, 於く, 得, 行ふ, 立つ, 用ふ -->
     <tag name="X">1</tag><!-- NULL -->
   </tags>
@@ -35,27 +38,26 @@
     <feat name="Polarity" value="Neg" upos="AUX,NOUN">337</feat><!-- ず, ざる, ざれ, ざら, 不, ざり -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="21">
-    <dep name="acl">426</dep>
-    <dep name="advcl">729</dep>
-    <dep name="advmod">474</dep>
+  <deps unique="20">
+    <dep name="acl">425</dep>
+    <dep name="advcl">727</dep>
+    <dep name="advmod">467</dep>
     <dep name="amod">245</dep>
-    <dep name="appos">5</dep>
-    <dep name="aux">1621</dep>
+    <dep name="aux">1298</dep>
     <dep name="case">3247</dep>
-    <dep name="cc">424</dep>
-    <dep name="compound">778</dep>
-    <dep name="dep">231</dep>
+    <dep name="cc">479</dep>
+    <dep name="compound">1053</dep>
+    <dep name="dep">272</dep>
     <dep name="det">14</dep>
     <dep name="discourse">1</dep>
-    <dep name="iobj">585</dep>
+    <dep name="iobj">559</dep>
     <dep name="mark">483</dep>
-    <dep name="nmod">2484</dep>
-    <dep name="nsubj">252</dep>
+    <dep name="nmod">2447</dep>
+    <dep name="nsubj">277</dep>
     <dep name="nummod">160</dep>
-    <dep name="obj">895</dep>
-    <dep name="obl">407</dep>
-    <dep name="punct">211</dep>
+    <dep name="obj">921</dep>
+    <dep name="obl">430</dep>
+    <dep name="punct">167</dep>
     <dep name="root">822</dep>
   </deps>
 </treebank>
