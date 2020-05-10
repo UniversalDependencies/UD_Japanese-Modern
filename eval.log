@@ -3,9 +3,9 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Japanese-Modern:
-commit d541bd67660143d710e09c03ae63f7c7778686ba
+commit d906ddcaa36ebd1c4dc102f253e7a09946756c25
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri May 10 21:26:16 2019 +0200
+Date:   Tue Nov 12 17:24:08 2019 +0100
 Size: counted 14494 of 14494 words (nodes).
 Size: min(0, log((N/1000)**2)) = 5.34746954137418.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -23,8 +23,20 @@ Udapi: found 3251 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 14494 words.
 Genres: found 1 out of 17 known.
 validate.py --lang ja --max-err=10 UD_Japanese-Modern/ja_modern-ud-test.conllu
-*** PASSED ***
-Validity: 1
+[Line 95 Sent 1-o_yo-4 Node 67]: [L5 Morpho aux-lemma] 'なし' is not an auxiliary verb in language [ja]
+[Line 247 Sent 1-o_yo-9 Node 12]: [L5 Morpho aux-lemma] '如し' is not an auxiliary verb in language [ja]
+[Line 270 Sent 1-o_yo-10 Node 20]: [L5 Morpho aux-lemma] '如し' is not an auxiliary verb in language [ja]
+[Line 316 Sent 1-o_yo-11 Node 43]: [L5 Morpho aux-lemma] '如し' is not an auxiliary verb in language [ja]
+[Line 352 Sent 1-o_yo-13 Node 18]: [L5 Morpho aux-lemma] 'なし' is not an auxiliary verb in language [ja]
+[Line 418 Sent 1-o_yo-15 Node 12]: [L5 Morpho aux-lemma] 'なし' is not an auxiliary verb in language [ja]
+[Line 494 Sent 1-o_yo-18 Node 17]: [L5 Morpho aux-lemma] 'なし' is not an auxiliary verb in language [ja]
+[Line 500 Sent 1-o_yo-18 Node 23]: [L5 Morpho aux-lemma] 'なし' is not an auxiliary verb in language [ja]
+[Line 511 Sent 1-o_yo-18 Node 34]: [L5 Morpho aux-lemma] 'しむ' is not an auxiliary verb in language [ja]
+...suppressing further errors regarding Morpho
+Morpho errors: 222
+*** FAILED *** with 222 errors
+Exit code: 1
+Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.12) = 0.00923076923076923
 (weight=0.0769230769230769) * (score{genres}=0.0588235294117647) = 0.00452488687782805
 (weight=0.0769230769230769) * (score{lemmas}=0.8) = 0.0615384615384615
@@ -33,6 +45,6 @@ Validity: 1
 (weight=0.0769230769230769) * (score{tags}=0.8) = 0.0615384615384615
 (weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
 (weight=0.0769230769230769) * (score{udeprels}=0.432432432432432) = 0.0332640332640333
-(TOTAL score=0.289856292533507) * (availability=1) * (validity=1) = 0.289856292533507
-STARS = 1.5
-UD_Japanese-Modern	0.289856292533507	1.5
+(TOTAL score=0.289856292533507) * (availability=1) * (validity=0.01) = 0.00289856292533507
+STARS = 0
+UD_Japanese-Modern	0.00289856292533507	0
