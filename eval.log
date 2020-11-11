@@ -3,9 +3,9 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Japanese-Modern:
-commit d906ddcaa36ebd1c4dc102f253e7a09946756c25
+commit 02b8e8d35224a34c2c9adcd6eb121a95393c1eda
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue Nov 12 17:24:08 2019 +0100
+Date:   Sun May 10 18:20:45 2020 +0200
 Size: counted 14494 of 14494 words (nodes).
 Size: min(0, log((N/1000)**2)) = 5.34746954137418.
 Size: maximum value 13.815511 is for 1000000 words or more.
