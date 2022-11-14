@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit ba6fbf413cb14afa25145b931c79fb60ef9456e2
-Author: www-data (nschneid) <nschneid@github.com>
-Date:   Wed May 11 05:10:30 2022 +0200
-Evaluating the following revision of UD_Japanese-Modern:
-commit 1a2df0bd750c0ab13f6c746c3e5289b2396a81da
+commit 13e6b709a8bc643c3f902800321a7beda46feb8d
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Wed Nov 3 16:39:17 2021 +0100
+Date:   Sun Nov 13 22:03:41 2022 +0100
+Evaluating the following revision of UD_Japanese-Modern:
+commit b1be43292a9e5a927ac5f29dec051cc7bd044ed2
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Sat May 14 14:49:09 2022 +0200
 Size: counted 14494 of 14494 words (nodes).
 Size: min(0, log((N/1000)**2)) = 5.34746954137418.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -35,8 +35,17 @@ validate.py --lang ja --max-err=10 UD_Japanese-Modern/ja_modern-ud-test.conllu
 [Line 500 Sent 1-o_yo-18 Node 23]: [L5 Morpho aux-lemma] 'なし' is not an auxiliary verb in language [ja]
 [Line 511 Sent 1-o_yo-18 Node 34]: [L5 Morpho aux-lemma] 'しむ' is not an auxiliary verb in language [ja]
 ...suppressing further errors regarding Morpho
+[Line 3912 Sent 1-o_yo-224 Node 70]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [66, 68]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 3989 Sent 1-o_yo-225 Node 22]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [17, 20]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 4240 Sent 1-o_yo-239 Node 24]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [6, 12]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 7466 Sent 2-o_yo-84 Node 16]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [2, 9]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 7991 Sent 3-o_yo-21 Node 29]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [1, 20]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 13133 Sent 5-o_yo-61 Node 37]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [7, 31]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 15325 Sent 6-o_yo-27 Node 18]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [9, 16]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 15560 Sent 6-o_yo-38 Node 12]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [3, 9]. Outer subjects are allowed if a clause acts as the predicate of another clause.
 Morpho errors: 202
-*** FAILED *** with 202 errors
+Syntax errors: 8
+*** FAILED *** with 210 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.12) = 0.00923076923076923
