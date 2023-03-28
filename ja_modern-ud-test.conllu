@@ -5239,7 +5239,7 @@
 # sent_id = 1-o_yo-275
 # text = 第一　アベセ字と我が邦音と配當して之を定む
 1	第	第	NOUN	接頭辞	_	2	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-数詞|SpaceAfter=No
-2	一	一	NUM	名詞-数詞	_	14	dep	_	BunsetuBILabel=I|BunsetuPositionType=ROOT|LUWBILabel=I|LUWPOS=名詞-数詞|SpaceAfter=Yes
+2	一	一	NUM	名詞-数詞	_	14	dep	_	BunsetuBILabel=I|BunsetuPositionType=ROOT|LUWBILabel=I|LUWPOS=名詞-数詞
 3	アベセ	アベセ	NOUN	名詞-普通名詞-一般	_	4	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 4	字	字	NOUN	名詞-普通名詞-一般	_	7	nmod	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 5	と	と	ADP	助詞-格助詞	_	4	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No
@@ -5256,7 +5256,7 @@
 # sent_id = 1-o_yo-276
 # text = 第二　我音に四聲の別あり
 1	第	第	NOUN	接頭辞	_	2	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-数詞|SpaceAfter=No
-2	二	二	NUM	名詞-数詞	_	9	dep	_	BunsetuBILabel=I|BunsetuPositionType=ROOT|LUWBILabel=I|LUWPOS=名詞-数詞|SpaceAfter=Yes
+2	二	二	NUM	名詞-数詞	_	9	dep	_	BunsetuBILabel=I|BunsetuPositionType=ROOT|LUWBILabel=I|LUWPOS=名詞-数詞
 3	我	我	ADJ	連体詞	_	4	amod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=連体詞|SpaceAfter=No
 4	音	音	NOUN	名詞-普通名詞-一般	_	9	obl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 5	に	に	ADP	助詞-格助詞	_	4	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No
@@ -5275,7 +5275,7 @@
 # sent_id = 1-o_yo-278
 # text = 第三　語の性質を定めて數種となす
 1	第	第	NOUN	接頭辞	_	2	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-数詞|SpaceAfter=No
-2	三	三	NUM	名詞-数詞	_	12	dep	_	BunsetuBILabel=I|BunsetuPositionType=ROOT|LUWBILabel=I|LUWPOS=名詞-数詞|SpaceAfter=Yes
+2	三	三	NUM	名詞-数詞	_	12	dep	_	BunsetuBILabel=I|BunsetuPositionType=ROOT|LUWBILabel=I|LUWPOS=名詞-数詞
 3	語	語	NOUN	名詞-普通名詞-一般	_	5	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 4	の	の	ADP	助詞-格助詞	_	3	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No
 5	性質	性質	NOUN	名詞-普通名詞-一般	_	7	obj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
@@ -5290,7 +5290,7 @@
 # sent_id = 1-o_yo-279
 # text = 第四　語に前天と後天との別あり
 1	第	第	NOUN	接頭辞	_	2	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-数詞|SpaceAfter=No
-2	四	四	NUM	名詞-数詞	_	11	dep	_	BunsetuBILabel=I|BunsetuPositionType=ROOT|LUWBILabel=I|LUWPOS=名詞-数詞|SpaceAfter=Yes
+2	四	四	NUM	名詞-数詞	_	11	dep	_	BunsetuBILabel=I|BunsetuPositionType=ROOT|LUWBILabel=I|LUWPOS=名詞-数詞
 3	語	語	NOUN	名詞-普通名詞-一般	_	11	iobj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 4	に	に	ADP	助詞-格助詞	_	3	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No
 5	前天	前天	NOUN	名詞-普通名詞-一般	_	7	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
@@ -5310,7 +5310,7 @@
 # sent_id = 1-o_yo-281
 # text = 第五　綴字の法を定む
 1	第	第	NOUN	接頭辞	_	2	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-数詞|SpaceAfter=No
-2	五	五	NUM	名詞-数詞	_	7	dep	_	BunsetuBILabel=I|BunsetuPositionType=ROOT|LUWBILabel=I|LUWPOS=名詞-数詞|SpaceAfter=Yes
+2	五	五	NUM	名詞-数詞	_	7	dep	_	BunsetuBILabel=I|BunsetuPositionType=ROOT|LUWBILabel=I|LUWPOS=名詞-数詞
 3	綴字	綴字	NOUN	名詞-普通名詞-一般	_	5	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 4	の	の	ADP	助詞-格助詞	_	3	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No
 5	法	法	NOUN	名詞-普通名詞-一般	_	7	obj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
@@ -5320,7 +5320,7 @@
 # sent_id = 1-o_yo-282
 # text = 第六　呼法を定む
 1	第	第	NOUN	接頭辞	_	2	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-数詞|SpaceAfter=No
-2	六	六	NUM	名詞-数詞	_	5	dep	_	BunsetuBILabel=I|BunsetuPositionType=ROOT|LUWBILabel=I|LUWPOS=名詞-数詞|SpaceAfter=Yes
+2	六	六	NUM	名詞-数詞	_	5	dep	_	BunsetuBILabel=I|BunsetuPositionType=ROOT|LUWBILabel=I|LUWPOS=名詞-数詞
 3	呼法	呼法	NOUN	名詞-普通名詞-一般	_	5	obj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 4	を	を	ADP	助詞-格助詞	_	3	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No
 5	定む	定む	VERB	動詞-一般	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=動詞-一般|SpaceAfter=No
@@ -5328,7 +5328,7 @@
 # sent_id = 1-o_yo-283
 # text = 第七　屈曲の法を定む
 1	第	第	NOUN	接頭辞	_	2	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-数詞|SpaceAfter=No
-2	七	七	NUM	名詞-数詞	_	7	dep	_	BunsetuBILabel=I|BunsetuPositionType=ROOT|LUWBILabel=I|LUWPOS=名詞-数詞|SpaceAfter=Yes
+2	七	七	NUM	名詞-数詞	_	7	dep	_	BunsetuBILabel=I|BunsetuPositionType=ROOT|LUWBILabel=I|LUWPOS=名詞-数詞
 3	屈曲	屈曲	NOUN	名詞-普通名詞-サ変可能	_	5	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 4	の	の	ADP	助詞-格助詞	_	3	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No
 5	法	法	NOUN	名詞-普通名詞-一般	_	7	obj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
@@ -5338,7 +5338,7 @@
 # sent_id = 1-o_yo-284
 # text = 第八　働字の法并に時を定む
 1	第	第	NOUN	接頭辞	_	2	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-数詞|SpaceAfter=No
-2	八	八	NUM	名詞-数詞	_	10	dep	_	BunsetuBILabel=I|BunsetuPositionType=ROOT|LUWBILabel=I|LUWPOS=名詞-数詞|SpaceAfter=Yes
+2	八	八	NUM	名詞-数詞	_	10	dep	_	BunsetuBILabel=I|BunsetuPositionType=ROOT|LUWBILabel=I|LUWPOS=名詞-数詞
 3	働字	働字	NOUN	名詞-普通名詞-一般	_	5	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 4	の	の	ADP	助詞-格助詞	_	3	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No
 5	法	法	NOUN	名詞-普通名詞-一般	_	8	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
@@ -5351,7 +5351,7 @@
 # sent_id = 1-o_yo-285
 # text = 第九　漢字の音を用ふる法を定む
 1	第	第	NOUN	接頭辞	_	2	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-数詞|SpaceAfter=No
-2	九	九	NUM	名詞-数詞	_	10	dep	_	BunsetuBILabel=I|BunsetuPositionType=ROOT|LUWBILabel=I|LUWPOS=名詞-数詞|SpaceAfter=Yes
+2	九	九	NUM	名詞-数詞	_	10	dep	_	BunsetuBILabel=I|BunsetuPositionType=ROOT|LUWBILabel=I|LUWPOS=名詞-数詞
 3	漢字	漢字	NOUN	名詞-普通名詞-一般	_	5	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 4	の	の	ADP	助詞-格助詞	_	3	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No
 5	音	音	NOUN	名詞-普通名詞-一般	_	7	obj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
@@ -5364,7 +5364,7 @@
 # sent_id = 1-o_yo-286
 # text = 第十　洋語を用ふる法を定む
 1	第	第	NOUN	接頭辞	_	2	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-数詞|SpaceAfter=No
-2	十	十	NUM	名詞-数詞	_	8	dep	_	BunsetuBILabel=I|BunsetuPositionType=ROOT|LUWBILabel=I|LUWPOS=名詞-数詞|SpaceAfter=Yes
+2	十	十	NUM	名詞-数詞	_	8	dep	_	BunsetuBILabel=I|BunsetuPositionType=ROOT|LUWBILabel=I|LUWPOS=名詞-数詞
 3	洋語	洋語	NOUN	名詞-普通名詞-一般	_	5	obj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 4	を	を	ADP	助詞-格助詞	_	3	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No
 5	用ふる	用ふ	VERB	動詞-一般	_	6	acl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=動詞-一般|SpaceAfter=No
@@ -5639,7 +5639,7 @@
 # sent_id = 2-o_yo-9
 # text = 第一　邦務及び邦權
 1	第	第	NOUN	接頭辞	_	2	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-数詞|SpaceAfter=No
-2	一	一	NUM	名詞-数詞	_	5	dep	_	BunsetuBILabel=I|BunsetuPositionType=ROOT|LUWBILabel=I|LUWPOS=名詞-数詞|SpaceAfter=Yes
+2	一	一	NUM	名詞-数詞	_	5	dep	_	BunsetuBILabel=I|BunsetuPositionType=ROOT|LUWBILabel=I|LUWPOS=名詞-数詞
 3	邦務	邦務	NOUN	名詞-普通名詞-一般	_	5	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 4	及び	及び	CCONJ	接続詞	_	5	cc	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=接続詞|SpaceAfter=No
 5	邦權	邦權	NOUN	名詞-普通名詞-一般	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
@@ -5907,7 +5907,7 @@
 # sent_id = 2-o_yo-21
 # text = 第二　君長の義務及び權利
 1	第	第	NOUN	接頭辞	_	2	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-数詞|SpaceAfter=No
-2	二	二	NUM	名詞-数詞	_	7	dep	_	BunsetuBILabel=I|BunsetuPositionType=ROOT|LUWBILabel=I|LUWPOS=名詞-数詞|SpaceAfter=Yes
+2	二	二	NUM	名詞-数詞	_	7	dep	_	BunsetuBILabel=I|BunsetuPositionType=ROOT|LUWBILabel=I|LUWPOS=名詞-数詞
 3	君長	君長	NOUN	名詞-普通名詞-一般	_	5	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 4	の	の	ADP	助詞-格助詞	_	3	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No
 5	義務	義務	NOUN	名詞-普通名詞-一般	_	7	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
@@ -6456,7 +6456,7 @@
 # sent_id = 2-o_yo-44
 # text = 第三　宗教惑亂國家危險
 1	第	第	NOUN	接頭辞	_	2	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-数詞|SpaceAfter=No
-2	三	三	NUM	名詞-数詞	_	6	dep	_	BunsetuBILabel=I|BunsetuPositionType=ROOT|LUWBILabel=I|LUWPOS=名詞-数詞|SpaceAfter=Yes
+2	三	三	NUM	名詞-数詞	_	6	dep	_	BunsetuBILabel=I|BunsetuPositionType=ROOT|LUWBILabel=I|LUWPOS=名詞-数詞
 3	宗教	宗教	NOUN	名詞-普通名詞-一般	_	6	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 4	惑亂	惑亂	NOUN	名詞-普通名詞-サ変可能	_	6	compound	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=I|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 5	國家	國家	NOUN	名詞-普通名詞-一般	_	6	compound	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=I|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
@@ -6942,7 +6942,7 @@
 # sent_id = 2-o_yo-62
 # text = 第四　僧徒關係規則
 1	第	第	NOUN	接頭辞	_	2	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-数詞|SpaceAfter=No
-2	四	四	NUM	名詞-数詞	_	5	dep	_	BunsetuBILabel=I|BunsetuPositionType=ROOT|LUWBILabel=I|LUWPOS=名詞-数詞|SpaceAfter=Yes
+2	四	四	NUM	名詞-数詞	_	5	dep	_	BunsetuBILabel=I|BunsetuPositionType=ROOT|LUWBILabel=I|LUWPOS=名詞-数詞
 3	僧徒	僧徒	NOUN	名詞-普通名詞-一般	_	5	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 4	關係	關係	NOUN	名詞-普通名詞-サ変可能	_	5	compound	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=I|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 5	規則	規則	NOUN	名詞-普通名詞-一般	_	0	root	_	BunsetuBILabel=I|BunsetuPositionType=ROOT|LUWBILabel=I|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
@@ -7146,7 +7146,7 @@
 # sent_id = 2-o_yo-72
 # text = 第五　各人通義
 1	第	第	NOUN	接頭辞	_	2	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-数詞|SpaceAfter=No
-2	五	五	NUM	名詞-数詞	_	4	dep	_	BunsetuBILabel=I|BunsetuPositionType=ROOT|LUWBILabel=I|LUWPOS=名詞-数詞|SpaceAfter=Yes
+2	五	五	NUM	名詞-数詞	_	4	dep	_	BunsetuBILabel=I|BunsetuPositionType=ROOT|LUWBILabel=I|LUWPOS=名詞-数詞
 3	各人	各人	NOUN	名詞-普通名詞-一般	_	4	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 4	通義	通義	NOUN	名詞-普通名詞-一般	_	0	root	_	BunsetuBILabel=I|BunsetuPositionType=ROOT|LUWBILabel=I|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 
@@ -7578,7 +7578,7 @@
 2	拷問	拷問	NOUN	名詞-普通名詞-サ変可能	_	3	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 3	論	論	NOUN	名詞-普通名詞-一般	_	5	nmod	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 4	の	の	ADP	助詞-格助詞	_	3	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No
-5	二	二	NUM	名詞-数詞	_	7	dep	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=名詞-数詞|SpaceAfter=Yes
+5	二	二	NUM	名詞-数詞	_	7	dep	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=名詞-数詞
 6	津田	津田	PROPN	名詞-固有名詞-人名-姓	_	7	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-固有名詞-人名-一般|SpaceAfter=No
 7	眞道	眞道	PROPN	名詞-固有名詞-人名-名	_	0	root	_	BunsetuBILabel=I|BunsetuPositionType=ROOT|LUWBILabel=I|LUWPOS=名詞-固有名詞-人名-一般|SpaceAfter=No
 
@@ -9179,7 +9179,7 @@
 3	は	は	ADP	助詞-係助詞	_	2	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-係助詞|SpaceAfter=No
 4	我	我	ADJ	連体詞	_	8	amod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=連体詞|SpaceAfter=No
 5	大	大	NOUN	接頭辞	_	6	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=接頭辞|SpaceAfter=No
-6	日本	日本	PROPN	名詞-固有名詞-地名-国	_	8	compound	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-固有名詞-地名-国|SpaceAfter=Yes
+6	日本	日本	PROPN	名詞-固有名詞-地名-国	_	8	compound	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-固有名詞-地名-国
 7	天皇	天皇	NOUN	名詞-普通名詞-一般	_	8	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 8	陛下	陛下	NOUN	名詞-普通名詞-一般	_	10	nmod	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 9	の	の	ADP	助詞-格助詞	_	8	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No
