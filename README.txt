@@ -78,6 +78,7 @@ Changelog
 Data available since: UD v2.2
 License: CC BY-NC-ND 3.0
 Includes text: yes
+Parallel: no
 Genre: nonfiction
 Lemmas: converted from manual
 UPOS: converted from manual
